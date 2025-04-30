@@ -153,7 +153,6 @@ const ProgressGauge = ({ progress }: { progress: number }) => {
 }
 
 const ModuleLink = ({
-  moduleId,
   url,
   isVisited,
   onVisit,
